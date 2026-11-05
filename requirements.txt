@@ -1,0 +1,7 @@
+google-genai
+python-dotenv
+PyMuPDF
+neo4j
+streamlit
+fastapi
+uvicorn
