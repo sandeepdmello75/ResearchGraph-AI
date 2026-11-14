@@ -1,5 +1,26 @@
+
+# Python environments
+.venv/
 venv/
+venv-1/
+
+# Python cache
 __pycache__/
+*.py[cod]
+
+# Environment variables and secrets
 .env
-*.pyc
+.env.*
+
+# Data and generated files
 data/
+
+# Research PDFs (keep original papers locally)
+documents/*.pdf
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
